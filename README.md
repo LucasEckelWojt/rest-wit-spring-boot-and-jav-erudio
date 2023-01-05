@@ -1,1 +1,1 @@
-# rest-wit-spring-boot-and-jav-erudio
+# rest-wit-spring-boot-and-jav-wojt
