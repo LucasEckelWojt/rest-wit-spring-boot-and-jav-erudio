@@ -1,1 +1,1 @@
-# rest-wit-spring-boot-and-jav-wojt
+# rest-wit-spring-boot-and-java-wojt
